@@ -1,2 +1,3 @@
-print('hello world')
-print('hi')
+import Tkinter 
+top = Tkinter.Tk()
+top.mainloop()
